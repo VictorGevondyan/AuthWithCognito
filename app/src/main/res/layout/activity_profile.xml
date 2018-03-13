@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context="am.victor.authwithcognito.SplashScreenActivity">
+
+    <ImageView
+        android:id="@+id/profile_image"
+        android:layout_width="@dimen/profile_image_size"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/image_top_margin"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/elon_musk" />
+
+    <TextView
+        android:id="@+id/user_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/image_top_margin"
+        android:layout_centerHorizontal="true"
+        android:text="@string/sample_email"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/between_credentials_top_margin"
+        android:layout_centerHorizontal="true"
+        android:text="@string/sample_name"/>
+
+    <EditText
+        android:id="@+id/dataset"
+        android:layout_width="@dimen/edit_text_width"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="@dimen/image_top_margin"
+        android:hint="@string/enter_dataset_name_hint"/>
+
+    <EditText
+        android:id="@+id/data_key"
+        android:layout_width="@dimen/edit_text_width"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:hint="@string/enter_data_key_hint"/>
+
+    <EditText
+        android:id="@+id/data_value"
+        android:layout_width="@dimen/edit_text_width"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:hint="@string/enter_data_value_hint"/>
+
+    <Button
+        android:id="@+id/submit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/submit"/>
+
+</LinearLayout>

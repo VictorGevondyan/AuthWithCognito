@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Captadorwifi</string>
+
+    <string name="facebook_app_id">1972555736325987</string>
+
+    <string name="sample_email">elon_musk@gmail.com</string>
+    <string name="sample_name">Elon Musk</string>
+
+    <string name="enter_dataset_name_hint">Your dataset name</string>
+    <string name="enter_data_key_hint">Your data key</string>
+    <string name="enter_data_value_hint">Your data value</string>
+
+    <string name="submit">Submit</string>
+
+</resources>

@@ -1,0 +1,14 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™Ÿ•·ûÿÿÿÿ8²à‹ªŸ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ö¾Ü‚ùÿÿÿÿ8²à‹ªŸ,
+hsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ù‡¹êüÿÿÿÿ
+gsquid:UselessImportCheck">Remove this unused import 'com.amazonaws.auth.AWSCredentials'.(Ž¸—¥8¬ð¦­Ÿ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·±Ÿåýÿÿÿÿ8²à‹ªŸ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ï¶˜à8²à‹ªŸ,
+wsquid:UselessImportCheck"IRemove this unused import 'com.amazonaws.mobile.config.AWSConfiguration'.(ÅÔ³®úÿÿÿÿ8¬ð¦­Ÿ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§•Ž8²à‹ªŸ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÓÄÍØúÿÿÿÿ8²à‹ªŸ,
+bsquid:S1192"FDefine a constant instead of duplicating this literal "debug" 3 times.(€ôë¶8²à‹ªŸ,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁŒÌƒüÿÿÿÿ8²à‹ªŸ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„õÊ¦ùÿÿÿÿ8²à‹ªŸ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ä¸çúûÿÿÿÿ8²à‹ªŸ,
